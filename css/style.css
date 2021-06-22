@@ -413,6 +413,8 @@ p {
   z-index: 5;
   padding: 50px 100px;
   padding-right: 120px;
+  border: solid #1270e4;
+  border-radius: 10px;
 }
 @media (max-width: 1199px) {
   .about-us-content {
@@ -694,6 +696,11 @@ a {
   border: none;
 }
 
+.card-text{
+  border: none;
+  text-align: justify;
+}
+
 .fh5co-news {
   background: #fdfdfd;
   padding-top: 50px;
@@ -922,4 +929,8 @@ footer.fh5co-footer .social-links li a {
   left: 0;
   right: 0;
   min-height: 1027px;
+}
+
+.shadow {
+  box-shadow: #1e1f29;
 }
