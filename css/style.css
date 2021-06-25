@@ -243,7 +243,6 @@ nav.fixed-top {
   width: 430px;
 }
 .social-links li {
-  border: 1px solid #ffffff;
   border-radius: 50%;
   height: 35px;
   width: 35px;
@@ -295,6 +294,10 @@ nav.fixed-top {
   transition: .2s;
 }
 
+.navbar{
+  background-color: #58c0ff;
+  opacity: 0.4;
+}
 .mobile-logo {
   display: none;
 }
@@ -306,9 +309,7 @@ nav.fixed-top {
 }
 
 @media (max-width: 1199px) {
-  .logo-desktop {
-    display: none;
-  }
+  
 }
 
 h2 {
@@ -933,4 +934,18 @@ footer.fh5co-footer .social-links li a {
 
 .shadow {
   box-shadow: #1e1f29;
+}
+
+.fixed-top {
+  background: rgba(75, 142, 250, 0.6);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.github-text{
+  cursor:pointer;
+}
+.github-text[title]:hover{
+  content:attr(title);
+  border-radius: 20px;
+  
 }
