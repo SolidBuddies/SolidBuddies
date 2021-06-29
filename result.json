@@ -1,0 +1,7750 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1624934841,
+        "id": 243001,
+        "lead_time": 5.35,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "PhLBNDfs72",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/219cef-22.png"
+    },
+    "id": 243
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934983,
+        "id": 252001,
+        "lead_time": 4.244,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "42NBUIIPKf",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/dffcfb-31.png"
+    },
+    "id": 252
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929588,
+        "id": 48001,
+        "lead_time": 31.401,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "hYqcbQPNtw",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/514695-51.png"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929395,
+        "id": 40001,
+        "lead_time": 6.291,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "1w1w6dl9C0",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c67325-43.png"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934111,
+        "id": 212001,
+        "lead_time": 5.757,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "sDPFRv2Nb6",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/621b22-43.png"
+    },
+    "id": 212
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929256,
+        "id": 30001,
+        "lead_time": 12.906,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "vXmT1q4HVN",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/5a0661-33.png"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930320,
+        "id": 91001,
+        "lead_time": 34.341,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "4V1ooYRumu",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c980a7-35.png"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931865,
+        "id": 168001,
+        "lead_time": 7.39,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "uiUz4ocZ8r",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f96237-54.png"
+    },
+    "id": 168
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931025,
+        "id": 134001,
+        "lead_time": 10.08,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "7NfrCohgsw",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/432c1f-20.png"
+    },
+    "id": 134
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934606,
+        "id": 231001,
+        "lead_time": 3.794,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "2yRK8J5SdW",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d6f23e-10.png"
+    },
+    "id": 231
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930835,
+        "id": 122001,
+        "lead_time": 10.007,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "sEZKdEVCFd",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/fd6932-8.png"
+    },
+    "id": 122
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930695,
+        "id": 113001,
+        "lead_time": 6.805,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "NIXLVlnlZp",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia",
+                "Rumah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/183ec8-57.png"
+    },
+    "id": 113
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934523,
+        "id": 227001,
+        "lead_time": 3.281,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "edH91Qdgav",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c3506b-6.png"
+    },
+    "id": 227
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931329,
+        "id": 152001,
+        "lead_time": 4.56,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "kCio7pBa-D",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/762d31-38.png"
+    },
+    "id": 152
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935366,
+        "id": 284001,
+        "lead_time": 6.9,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "NwpjLZI8ks",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/cbe981-4.png"
+    },
+    "id": 284
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933989,
+        "id": 204001,
+        "lead_time": 12.485,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "pIhF-bkDxA",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9ca49d-35.png"
+    },
+    "id": 204
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934442,
+        "id": 223001,
+        "lead_time": 4.462,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "jHoAQWMsjf",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ef6a22-1.png"
+    },
+    "id": 223
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934964,
+        "id": 250001,
+        "lead_time": 4.62,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Kp20AakI39",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/bf400d-29.png"
+    },
+    "id": 250
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930095,
+        "id": 76001,
+        "lead_time": 4.617,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "k5H9LB4qmb",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f59522-20.png"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929789,
+        "id": 62001,
+        "lead_time": 7.711,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "VE1-VkbMlP",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/42ed06-6.png"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935077,
+        "id": 260001,
+        "lead_time": 5.414,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "GvPyXJ-JrO",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/7aee0c-39.png"
+    },
+    "id": 260
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624936002,
+        "id": 327001,
+        "lead_time": 9.686,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "I0_g68Thec",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/8b8ccb-58.png"
+    },
+    "id": 327
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930549,
+        "id": 104001,
+        "lead_time": 4.854,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "HReGBc1b2V",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b3f39a-48.png"
+    },
+    "id": 104
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934224,
+        "id": 219001,
+        "lead_time": 22.452,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Qx_4d32G2n",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/22af64-50.png"
+    },
+    "id": 219
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930817,
+        "id": 121001,
+        "lead_time": 3.96,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "rruJCW5kYS",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d57bc9-7.png"
+    },
+    "id": 121
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930870,
+        "id": 124001,
+        "lead_time": 12.392,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "qBPsVVYgBV",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d514c3-10.png"
+    },
+    "id": 124
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930204,
+        "id": 85001,
+        "lead_time": 5.213,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "fNgK56vJpS",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/572cc9-29.png"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934085,
+        "id": 210001,
+        "lead_time": 5.372,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "LqwVseWeE2",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/57e0d9-41.png"
+    },
+    "id": 210
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930279,
+        "id": 90001,
+        "lead_time": 11.175,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "_63VZiplWW",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/cb0279-34.png"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931895,
+        "id": 170001,
+        "lead_time": 580.293,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "loh9BUzPVX",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ],
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "image": "/data/upload/dbd8ed-1.png"
+    },
+    "id": 170
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929145,
+        "id": 21001,
+        "lead_time": 5.305,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "HmVoNMQBsy",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/bfff14-24.png"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930012,
+        "id": 68001,
+        "lead_time": 13.868,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "f3Thu90VXN",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/1fe8a5-12.png"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929665,
+        "id": 54001,
+        "lead_time": 7.193,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "t5VcrGkdcj",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/26ed03-57.png"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934907,
+        "id": 246001,
+        "lead_time": 3.567,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "e2PpEO8sab",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c3299b-25.png"
+    },
+    "id": 246
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935397,
+        "id": 286001,
+        "lead_time": 6.534,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "uYfqMIFER1",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/bfc2ec-6.png"
+    },
+    "id": 286
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933605,
+        "id": 188001,
+        "lead_time": 5.546,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "DzNc6pFgCB",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Batu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/8a3226-19.png"
+    },
+    "id": 188
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929088,
+        "id": 16001,
+        "lead_time": 5.61,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "GbE7urkGPO",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c2b0d2-19.png"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935911,
+        "id": 322001,
+        "lead_time": 7.435,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "RuWY7qmFT-",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c98762-52.png"
+    },
+    "id": 322
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929678,
+        "id": 55001,
+        "lead_time": 7.898,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "4Bp6Imqukj",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/40b429-58.png"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931743,
+        "id": 159001,
+        "lead_time": 4.579,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ZiGTBbdILP",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/53b2f6-45.png"
+    },
+    "id": 159
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929640,
+        "id": 52001,
+        "lead_time": 6.515,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "S1rh6QFD0Y",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Manusia",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/7b06b1-55.png"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934431,
+        "id": 222001,
+        "lead_time": 14.74,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "vnOSCzMf2y",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/545a6f-53.png"
+    },
+    "id": 222
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934991,
+        "id": 253001,
+        "lead_time": 4.578,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ps4ljxboPj",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/4ccfc3-32.png"
+    },
+    "id": 253
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929314,
+        "id": 34001,
+        "lead_time": 7.822,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Zke1-XfQiK",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/4da5eb-37.png"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931183,
+        "id": 144001,
+        "lead_time": 4.893,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "q2FadQB6zK",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/017cde-30.png"
+    },
+    "id": 144
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934789,
+        "id": 239001,
+        "lead_time": 2.413,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "1_OgtFuqkT",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/962bb7-18.png"
+    },
+    "id": 239
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930066,
+        "id": 73001,
+        "lead_time": 2.51,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "KOi0bLcuZa",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b735c1-17.png"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929606,
+        "id": 49001,
+        "lead_time": 10.818,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "PZoQd-VCBN",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/0d7b3a-52.png"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935178,
+        "id": 268001,
+        "lead_time": 3.753,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "kqLL8jr0u8",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ca6614-47.png"
+    },
+    "id": 268
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935004,
+        "id": 254001,
+        "lead_time": 4.86,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "h1h4BWkBrz",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/92ec70-33.png"
+    },
+    "id": 254
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934799,
+        "id": 240001,
+        "lead_time": 4.023,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "-XwrR3dqE2",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/93b67f-19.png"
+    },
+    "id": 240
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929113,
+        "id": 18001,
+        "lead_time": 5.05,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "1pWu0S48_i",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/8e2ba3-21.png"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930168,
+        "id": 82001,
+        "lead_time": 6.513,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "GBJa6qhccg",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/770646-26.png"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928921,
+        "id": 10001,
+        "lead_time": 4.665,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "jKL755XU1T",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6d6713-13.png"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931836,
+        "id": 166001,
+        "lead_time": 8.43,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "SkK0WQ-5Of",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6494e2-52.png"
+    },
+    "id": 166
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934060,
+        "id": 208001,
+        "lead_time": 6.13,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "8u03KKPCAE",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Gunung",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ec9d28-39.png"
+    },
+    "id": 208
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935236,
+        "id": 273001,
+        "lead_time": 5.814,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "cnlIBStfcx",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ffc8f0-52.png"
+    },
+    "id": 273
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935936,
+        "id": 324001,
+        "lead_time": 7.837,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "5kR9ig2GlC",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e98ca6-54.png"
+    },
+    "id": 324
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929979,
+        "id": 66001,
+        "lead_time": 33.077,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "aNKvOLnlSi",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c79f66-10.png"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934754,
+        "id": 238001,
+        "lead_time": 972.635,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "dLeZSO5yRc",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan",
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d6eb1c-17.png"
+    },
+    "id": 238
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930566,
+        "id": 105001,
+        "lead_time": 10.331,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "riyMnWzMtK",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Rumah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e95c07-49.png"
+    },
+    "id": 105
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930950,
+        "id": 130001,
+        "lead_time": 4.161,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "WpUcl6FZJD",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/82987e-16.png"
+    },
+    "id": 130
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935808,
+        "id": 314001,
+        "lead_time": 6.104,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "O_0wSMGYkA",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/74ae74-43.png"
+    },
+    "id": 314
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934482,
+        "id": 225001,
+        "lead_time": 9.134,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "9NEepGrRZw",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Danau"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b2a687-3.png"
+    },
+    "id": 225
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935067,
+        "id": 259001,
+        "lead_time": 8.192,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "KX8Z5mH8-a",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/728f3e-38.png"
+    },
+    "id": 259
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932015,
+        "id": 172001,
+        "lead_time": 7.978,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "P-4hN537Ec",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Danau"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b2a687-3.png"
+    },
+    "id": 172
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934640,
+        "id": 232001,
+        "lead_time": 3.761,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "7UJn3hogma",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ea366a-11.png"
+    },
+    "id": 232
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930405,
+        "id": 96001,
+        "lead_time": 4.889,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "b5YAK7blgM",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9af1e4-40.png"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934024,
+        "id": 206001,
+        "lead_time": 13.054,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "n--aqyUEAp",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/58735f-37.png"
+    },
+    "id": 206
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935279,
+        "id": 277001,
+        "lead_time": 4.752,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "_vpeU9_wkr",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/1b02c4-56.png"
+    },
+    "id": 277
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932073,
+        "id": 176001,
+        "lead_time": 4.815,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "0-qSDeVw3Z",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e22269-7.png"
+    },
+    "id": 176
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930155,
+        "id": 81001,
+        "lead_time": 8.237,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "oCgLseUnjg",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/2d6396-25.png"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935848,
+        "id": 317001,
+        "lead_time": 8.601,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "M7MzzSo-eb",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/22980c-46.png"
+    },
+    "id": 317
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930183,
+        "id": 83001,
+        "lead_time": 9.253,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "GqHDG-DrcF",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/265bd0-27.png"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935089,
+        "id": 261001,
+        "lead_time": 5.415,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "QlNOLIS24R",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e66a85-40.png"
+    },
+    "id": 261
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935205,
+        "id": 270001,
+        "lead_time": 7.835,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "H9V5ogj00r",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/83b9c5-49.png"
+    },
+    "id": 270
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935530,
+        "id": 293001,
+        "lead_time": 8.115,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "lzPLfMKcGM",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ca896f-15.png"
+    },
+    "id": 293
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930723,
+        "id": 115001,
+        "lead_time": 4.307,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "I-dKO9ElWl",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ebd469-59.png"
+    },
+    "id": 115
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934693,
+        "id": 235001,
+        "lead_time": 6.454,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "z7ILKLG1Kh",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/7662c7-14.png"
+    },
+    "id": 235
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928846,
+        "id": 3001,
+        "lead_time": 7.087,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "BSCvqutweF",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/2d86a8-6.png"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935123,
+        "id": 263001,
+        "lead_time": 6.676,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "fXtl4Da9Tu",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/2eedf8-42.png"
+    },
+    "id": 263
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935050,
+        "id": 258001,
+        "lead_time": 3.326,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "8txcwSXEFg",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/173e51-37.png"
+    },
+    "id": 258
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930106,
+        "id": 77001,
+        "lead_time": 1.481,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "AuHJbslslN",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/97d3bf-21.png"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933916,
+        "id": 199001,
+        "lead_time": 6.662,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "j2cQFG6nTa",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/15dc20-30.png"
+    },
+    "id": 199
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934860,
+        "id": 244001,
+        "lead_time": 4.823,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "LXdpieAGAp",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/461303-23.png"
+    },
+    "id": 244
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929843,
+        "id": 65001,
+        "lead_time": 15.138,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "FOcdhb_ORo",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia",
+                "Rumah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e75a84-9.png"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935724,
+        "id": 307001,
+        "lead_time": 5.232,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "2fImLrLyVq",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/3afcdf-34.png"
+    },
+    "id": 307
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935604,
+        "id": 297001,
+        "lead_time": 8.833,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ATlMvT3Iru",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/645586-20.png"
+    },
+    "id": 297
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935426,
+        "id": 288001,
+        "lead_time": 4.915,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "yOZKAaUwIs",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/825f52-9.png"
+    },
+    "id": 288
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929742,
+        "id": 59001,
+        "lead_time": 8.505,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "SrWIfJR6ur",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/a37aef-3.png"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930262,
+        "id": 89001,
+        "lead_time": 5.969,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "oXSrFNuB6R",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/104405-33.png"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934714,
+        "id": 237001,
+        "lead_time": 4.34,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "zYvVwIJhlE",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/5408e5-16.png"
+    },
+    "id": 237
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929379,
+        "id": 39001,
+        "lead_time": 7.231,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "mCmWTsb-Bw",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Hewan",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/663012-42.png"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930782,
+        "id": 118001,
+        "lead_time": 9.081,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ZcuP5GzloD",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Manusia",
+                "Danau"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9fc5ef-4.png"
+    },
+    "id": 118
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929728,
+        "id": 58001,
+        "lead_time": 5.243,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "QXRb2jAGb1",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/732205-2.png"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931301,
+        "id": 150001,
+        "lead_time": 3.95,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "pYoSS_Hh0J",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/a34753-36.png"
+    },
+    "id": 150
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929507,
+        "id": 43001,
+        "lead_time": 73.221,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "44FZbaeN5D",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/5ddb51-46.png"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930647,
+        "id": 110001,
+        "lead_time": 4.871,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "xDTcYWSX-u",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/24de3c-54.png"
+    },
+    "id": 110
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933197,
+        "id": 185001,
+        "lead_time": 8.902,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "zGAGwrKGo9",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/138760-16.png"
+    },
+    "id": 185
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930623,
+        "id": 108001,
+        "lead_time": 7.481,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "0UDZ988bit",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Rumah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f34496-52.png"
+    },
+    "id": 108
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929226,
+        "id": 28001,
+        "lead_time": 9.274,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "vSi_Cxivxg",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/21b8fe-31.png"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928858,
+        "id": 4001,
+        "lead_time": 4.698,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "5fqIpsX8e8",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/3e56ad-7.png"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933930,
+        "id": 200001,
+        "lead_time": 4.872,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "1BO5nzIMW7",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/3b3922-31.png"
+    },
+    "id": 200
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930250,
+        "id": 88001,
+        "lead_time": 137.353,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "eTkyV5kRhW",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Rumah",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e25f5e-32.png"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934581,
+        "id": 230001,
+        "lead_time": 5.502,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "SKkzVf-_wM",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9116b3-9.png"
+    },
+    "id": 230
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935331,
+        "id": 281001,
+        "lead_time": 4.218,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "QRcnJE0sHJ",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/8d7105-2.png"
+    },
+    "id": 281
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932089,
+        "id": 177001,
+        "lead_time": 7.763,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "b63bBdMOzX",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/0a0d21-8.png"
+    },
+    "id": 177
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935761,
+        "id": 310001,
+        "lead_time": 5.489,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Itawy3A7Cy",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e07747-38.png"
+    },
+    "id": 310
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935437,
+        "id": 289001,
+        "lead_time": 5.66,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "UeY8V_kjt3",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Air terjun",
+                "Batu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/58607e-10.png"
+    },
+    "id": 289
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624936082,
+        "id": 332001,
+        "lead_time": 2.882,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "6AFuDZ1v5p",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d2b581-3.png"
+    },
+    "id": 332
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933621,
+        "id": 189001,
+        "lead_time": 381.551,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "0kccYjisfn",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/cc6003-20.png"
+    },
+    "id": 189
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935873,
+        "id": 319001,
+        "lead_time": 7.846,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "-TLq3NjZ_Y",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Air terjun",
+                "Batu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/3afab5-49.png"
+    },
+    "id": 319
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931267,
+        "id": 148001,
+        "lead_time": 267.224,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "c8yGuyjbXx",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/970eb2-34.png"
+    },
+    "id": 148
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932145,
+        "id": 178001,
+        "lead_time": 50.179,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Y2gHxom3Qa",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/239181-9.png"
+    },
+    "id": 178
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935343,
+        "id": 282001,
+        "lead_time": 6.173,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "v_wVJeTz3v",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/aefea3-3.png"
+    },
+    "id": 282
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930058,
+        "id": 72001,
+        "lead_time": 7.544,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "lH7cA6rgdf",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Rumah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/3f2453-16.png"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929695,
+        "id": 56001,
+        "lead_time": 10.507,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "qzsaAHVVX3",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Hewan",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ba6e3c-59.png"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935974,
+        "id": 325001,
+        "lead_time": 22.852,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "D26kor6dmR",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ca6b46-56.png"
+    },
+    "id": 325
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929077,
+        "id": 15001,
+        "lead_time": 9.062,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "sjEiCVxyox",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Danau"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f9d78a-18.png"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929160,
+        "id": 22001,
+        "lead_time": 5.653,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "8Jju1duzs_",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/68ce10-25.png"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929426,
+        "id": 42001,
+        "lead_time": 6.2,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "mEzBy1F1KK",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6f06f9-45.png"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930525,
+        "id": 102001,
+        "lead_time": 4.285,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "iCmxrO1Onp",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/44a770-46.png"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931007,
+        "id": 133001,
+        "lead_time": 19.815,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "hE8ReV7VNa",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ec5600-19.png"
+    },
+    "id": 133
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934466,
+        "id": 224001,
+        "lead_time": 18.69,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "cD--szkGsY",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Danau",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f7e193-2.png"
+    },
+    "id": 224
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929360,
+        "id": 38001,
+        "lead_time": 5.581,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "VSgqftMNDH",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/408136-41.png"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929101,
+        "id": 17001,
+        "lead_time": 8.938,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "KlSfr5MhWi",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/747d69-20.png"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934659,
+        "id": 233001,
+        "lead_time": 5.011,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "daKx_zanNl",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/bc9126-12.png"
+    },
+    "id": 233
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930139,
+        "id": 80001,
+        "lead_time": 1.674,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "JJvx1iAVD6",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/1e81ea-24.png"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930195,
+        "id": 84001,
+        "lead_time": 5.79,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "zZoRllMXdx",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/279ce6-28.png"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931756,
+        "id": 160001,
+        "lead_time": 6.261,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "poDWm66IAF",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f4a171-46.png"
+    },
+    "id": 160
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935267,
+        "id": 276001,
+        "lead_time": 3.244,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "cwn96e-Z1L",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/35ef69-55.png"
+    },
+    "id": 276
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935352,
+        "id": 283001,
+        "lead_time": 3.826,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ZUxFnUSeYn",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f85810-4.png"
+    },
+    "id": 283
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930928,
+        "id": 128001,
+        "lead_time": 3.762,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "-VHcoggRlA",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c06261-14.png"
+    },
+    "id": 128
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935559,
+        "id": 294001,
+        "lead_time": 8.38,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "4hZgZ4gtcK",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b64aae-17.png"
+    },
+    "id": 294
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930121,
+        "id": 78001,
+        "lead_time": 6.06,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "WWwXob68pp",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/2cf231-22.png"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932032,
+        "id": 173001,
+        "lead_time": 7.534,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "NSdIlH0sof",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Manusia",
+                "Danau"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9fc5ef-4.png"
+    },
+    "id": 173
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930538,
+        "id": 103001,
+        "lead_time": 5.93,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "O5A59Grm_K",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/44a6ad-47.png"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935134,
+        "id": 264001,
+        "lead_time": 4.658,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "mJSVIitKlZ",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e80e9c-43.png"
+    },
+    "id": 264
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930421,
+        "id": 97001,
+        "lead_time": 8.687,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "pg35dVC5nD",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ed2ffb-41.png"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934494,
+        "id": 226001,
+        "lead_time": 712.619,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "uQjkG7Ehvi",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/eb3ec9-5.png"
+    },
+    "id": 226
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933571,
+        "id": 187001,
+        "lead_time": 199.198,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "YhoWVSsSP-",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Danau",
+                "Batu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/38de04-18.png"
+    },
+    "id": 187
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935028,
+        "id": 256001,
+        "lead_time": 6.461,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "FMqxY8AbvR",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Batu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f5f6a5-35.png"
+    },
+    "id": 256
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929777,
+        "id": 61001,
+        "lead_time": 871.509,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "wUzg02BDQ7",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Manusia",
+                "Taman",
+                "Rumah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9906c1-5.png"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930455,
+        "id": 99001,
+        "lead_time": 9.028,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "jjapndTewl",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9a5e98-43.png"
+    },
+    "id": 99
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624936019,
+        "id": 328001,
+        "lead_time": 9.63,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "dFvoD1eoP7",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b9c633-59.png"
+    },
+    "id": 328
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935291,
+        "id": 278001,
+        "lead_time": 5.367,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "UvL9rv2HFt",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/42a729-57.png"
+    },
+    "id": 278
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930084,
+        "id": 75001,
+        "lead_time": 6.041,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "geRWx1Z3UH",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d63e01-19.png"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929716,
+        "id": 57001,
+        "lead_time": 15.217,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "yLuleVrR6w",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan",
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/4e91bb-1.png"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930980,
+        "id": 132001,
+        "lead_time": 4.466,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "MuqF0pATWJ",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c04510-18.png"
+    },
+    "id": 132
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934073,
+        "id": 209001,
+        "lead_time": 5.929,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "c6GVZ7D4xy",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/945d10-40.png"
+    },
+    "id": 209
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928883,
+        "id": 6001,
+        "lead_time": 4.672,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "2JNKvV7udR",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/95e8a7-9.png"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935110,
+        "id": 262001,
+        "lead_time": 13.405,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "gc-wkIX6d-",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b104d8-41.png"
+    },
+    "id": 262
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931039,
+        "id": 135001,
+        "lead_time": 6.47,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "oOOKcp259O",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/5bf54a-21.png"
+    },
+    "id": 135
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930438,
+        "id": 98001,
+        "lead_time": 6.041,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "SgKI-wZ7EZ",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Rumah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/8a4af1-42.png"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933174,
+        "id": 184001,
+        "lead_time": 11.364,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "GvktbrtfJ2",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Danau"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/a74250-15.png"
+    },
+    "id": 184
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933944,
+        "id": 201001,
+        "lead_time": 6.023,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "0Zijp8rfST",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/8ce519-32.png"
+    },
+    "id": 201
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931146,
+        "id": 141001,
+        "lead_time": 14.947,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "zlYwi6ysmw",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/48b981-27.png"
+    },
+    "id": 141
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930663,
+        "id": 111001,
+        "lead_time": 8.153,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "fZk7s7_Gn-",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/a5734e-55.png"
+    },
+    "id": 111
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930043,
+        "id": 71001,
+        "lead_time": 2.968,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "3yRkykQ3z7",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/42d773-15.png"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935677,
+        "id": 303001,
+        "lead_time": 6.712,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "fvfuY_l2k9",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/5f0725-29.png"
+    },
+    "id": 303
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930920,
+        "id": 127001,
+        "lead_time": 229.12,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "WMVsJP1hvl",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Batu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/455e80-13.png"
+    },
+    "id": 127
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935147,
+        "id": 265001,
+        "lead_time": 5.264,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "EHPcQPYasM",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6cb50f-44.png"
+    },
+    "id": 265
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934169,
+        "id": 216001,
+        "lead_time": 7.411,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "O1co40rG0V",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/7e05ee-47.png"
+    },
+    "id": 216
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931996,
+        "id": 171001,
+        "lead_time": 2.321,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "XHy7lkMEtq",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ef6a22-2.png"
+    },
+    "id": 171
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935899,
+        "id": 321001,
+        "lead_time": 10.263,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "_YBkvHOLvE",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b23933-51.png"
+    },
+    "id": 321
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935784,
+        "id": 312001,
+        "lead_time": 6.429,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "45l1uVBUYJ",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/76f437-40.png"
+    },
+    "id": 312
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935987,
+        "id": 326001,
+        "lead_time": 7.012,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "nNk8KxjGMv",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/483b3d-57.png"
+    },
+    "id": 326
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934823,
+        "id": 242001,
+        "lead_time": 3.463,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "rYK_LOqkzW",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/19ea0c-21.png"
+    },
+    "id": 242
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934679,
+        "id": 234001,
+        "lead_time": 4.844,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "JL_s0tHikK",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/4604f8-13.png"
+    },
+    "id": 234
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934703,
+        "id": 236001,
+        "lead_time": 4.153,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "GVTOQKOSE-",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/720a22-15.png"
+    },
+    "id": 236
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930486,
+        "id": 101001,
+        "lead_time": 1468.239,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "zW0GNgQ9ri",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e2ba32-45.png"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934811,
+        "id": 241001,
+        "lead_time": 5.693,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "LZQNqA61i0",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c8f5bd-20.png"
+    },
+    "id": 241
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931851,
+        "id": 167001,
+        "lead_time": 329.806,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "lyX6SysBu4",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/53f50b-53.png"
+    },
+    "id": 167
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930130,
+        "id": 79001,
+        "lead_time": 2.821,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "AwM21P3xtO",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/3529cf-23.png"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933687,
+        "id": 193001,
+        "lead_time": 4.524,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "87zbB6aKDm",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/daed98-24.png"
+    },
+    "id": 193
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935320,
+        "id": 280001,
+        "lead_time": 7.11,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "cFgDQALx45",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d4217c-1.png"
+    },
+    "id": 280
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935882,
+        "id": 320001,
+        "lead_time": 5.517,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "z5G7YV2nrq",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6d262f-50.png"
+    },
+    "id": 320
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935859,
+        "id": 318001,
+        "lead_time": 5.631,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "tTkFa2Zfa1",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b7fcd7-48.png"
+    },
+    "id": 318
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929820,
+        "id": 64001,
+        "lead_time": 8.452,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "tUFUEvUsNC",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/92ba08-8.png"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928933,
+        "id": 11001,
+        "lead_time": 2.426,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "-tkL91sYXL",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/df510b-14.png"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933961,
+        "id": 202001,
+        "lead_time": 8.773,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "jdeZJIicxB",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/eb26ac-33.png"
+    },
+    "id": 202
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932061,
+        "id": 175001,
+        "lead_time": 7.866,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "KLym63GHrl",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e7b726-6.png"
+    },
+    "id": 175
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935691,
+        "id": 304001,
+        "lead_time": 7.056,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "SbiwQCHUQP",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Manusia",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d91b26-31.png"
+    },
+    "id": 304
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935187,
+        "id": 269001,
+        "lead_time": 3.608,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "SPEuR2xuob",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/a3d2dc-48.png"
+    },
+    "id": 269
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934411,
+        "id": 221001,
+        "lead_time": 21.582,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "U3xu8AtGQi",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c22e1a-52.png"
+    },
+    "id": 221
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932046,
+        "id": 174001,
+        "lead_time": 5.189,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Oh2iy0f7MF",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/0c3875-5.png"
+    },
+    "id": 174
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935452,
+        "id": 290001,
+        "lead_time": 8.674,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "WcHUVjeSua",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9a755b-12.png"
+    },
+    "id": 290
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928805,
+        "id": 1,
+        "lead_time": 6.437,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "y5rc8jnEye",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b89bfc-3.png"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928813,
+        "id": 1001,
+        "lead_time": 1.839,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "UT3IO3ZvzP",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/68f14f-4.png"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929339,
+        "id": 36001,
+        "lead_time": 6.238,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "DYFJwyr6cP",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ee6f95-39.png"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935713,
+        "id": 306001,
+        "lead_time": 8.55,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "uZ0RYhikYA",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/869cfd-33.png"
+    },
+    "id": 306
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930753,
+        "id": 116001,
+        "lead_time": 23.989,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "jFCLd1E816",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman",
+                "Rumah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/3617cf-1.png"
+    },
+    "id": 116
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930392,
+        "id": 95001,
+        "lead_time": 7.183,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "i0dCZrizzF",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/cf1c62-39.png"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933631,
+        "id": 190001,
+        "lead_time": 4.216,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "EVzQnXpJwb",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/382dc3-21.png"
+    },
+    "id": 190
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935823,
+        "id": 315001,
+        "lead_time": 10.745,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "FVheR69RVo",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/4e980e-44.png"
+    },
+    "id": 315
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930939,
+        "id": 129001,
+        "lead_time": 3.441,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ByB78lQmXQ",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/94c835-15.png"
+    },
+    "id": 129
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931162,
+        "id": 142001,
+        "lead_time": 8.121,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "In4dO3uo4p",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d836ec-28.png"
+    },
+    "id": 142
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935666,
+        "id": 302001,
+        "lead_time": 5.926,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "K_4j0rz34M",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/cff58f-26.png"
+    },
+    "id": 302
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935699,
+        "id": 305001,
+        "lead_time": 3.703,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "kRDQchlGpW",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/959900-32.png"
+    },
+    "id": 305
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929992,
+        "id": 67001,
+        "lead_time": 8.071,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "vHeh0XCF3j",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/56114f-11.png"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935216,
+        "id": 271001,
+        "lead_time": 4.615,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "yfH4lEisr6",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b40506-50.png"
+    },
+    "id": 271
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931720,
+        "id": 157001,
+        "lead_time": 13.539,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "JWWCEf2erI",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Batu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9c893e-43.png"
+    },
+    "id": 157
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931288,
+        "id": 149001,
+        "lead_time": 14.508,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "gGJEL90dLa",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ad30d6-35.png"
+    },
+    "id": 149
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934953,
+        "id": 249001,
+        "lead_time": 2.93,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "cG1uIT63xp",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/54163c-28.png"
+    },
+    "id": 249
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624936045,
+        "id": 330001,
+        "lead_time": 9.142,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ixSlveEubZ",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/238aa2-1.png"
+    },
+    "id": 330
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930026,
+        "id": 69001,
+        "lead_time": 6.356,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Cvibd55Hl-",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f6f8c6-13.png"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935384,
+        "id": 285001,
+        "lead_time": 12.114,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "q_AFG2_PtO",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Air terjun",
+                "Batu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/95590d-5.png"
+    },
+    "id": 285
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934557,
+        "id": 229001,
+        "lead_time": 5.864,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "kF04EZQ3we",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/21a492-8.png"
+    },
+    "id": 229
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929804,
+        "id": 63001,
+        "lead_time": 7.807,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "qgaAMyATwl",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d3cce4-7.png"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934384,
+        "id": 220001,
+        "lead_time": 154.986,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "KhX-7g0Yws",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6a3091-51.png"
+    },
+    "id": 220
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928945,
+        "id": 12001,
+        "lead_time": 6.054,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ObCJO1QRDr",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan",
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/7d8a71-15.png"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931194,
+        "id": 145001,
+        "lead_time": 4.736,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "lf3cHzY9Uk",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/52c596-31.png"
+    },
+    "id": 145
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932354,
+        "id": 183001,
+        "lead_time": 22.688,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "C9yZv6eADA",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6ddfa4-14.png"
+    },
+    "id": 183
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934944,
+        "id": 248001,
+        "lead_time": 4.25,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "b5cMaLoYkW",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/06ccc4-27.png"
+    },
+    "id": 248
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935749,
+        "id": 309001,
+        "lead_time": 6.384,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "v67dJw0atA",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/55fd77-37.png"
+    },
+    "id": 309
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931096,
+        "id": 139001,
+        "lead_time": 10.598,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "HZiVVrFPUb",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/eec72c-25.png"
+    },
+    "id": 139
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930608,
+        "id": 107001,
+        "lead_time": 23.955,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "hcDNGGlusj",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/5a896e-51.png"
+    },
+    "id": 107
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934539,
+        "id": 228001,
+        "lead_time": 6.267,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "DcZd8lD8k7",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/17eff1-7.png"
+    },
+    "id": 228
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931820,
+        "id": 165001,
+        "lead_time": 316.137,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "TapkNxjaZz",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Gunung",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/daed98-51.png"
+    },
+    "id": 165
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931732,
+        "id": 158001,
+        "lead_time": 4.568,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "aEnxnJiCLA",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/812ac9-44.png"
+    },
+    "id": 158
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935617,
+        "id": 298001,
+        "lead_time": 7.023,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "31vO1chM-o",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/595952-21.png"
+    },
+    "id": 298
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930577,
+        "id": 106001,
+        "lead_time": 6.021,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "GewLOlR3w4",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ea2ecb-50.png"
+    },
+    "id": 106
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929134,
+        "id": 20001,
+        "lead_time": 6.322,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "mTSZ1VrZTu",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/36bcbd-23.png"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934147,
+        "id": 214001,
+        "lead_time": 15.695,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "bIh4qJNwJ-",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Danau",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/cd0889-45.png"
+    },
+    "id": 214
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930216,
+        "id": 86001,
+        "lead_time": 4.843,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "x7JVaHhKHV",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/463730-30.png"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934182,
+        "id": 217001,
+        "lead_time": 6.684,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "fI8SUMczdI",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Danau",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b48b3a-48.png"
+    },
+    "id": 217
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930635,
+        "id": 109001,
+        "lead_time": 7.705,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "mHJDUOgsC2",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Rumah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b366ea-53.png"
+    },
+    "id": 109
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929756,
+        "id": 60001,
+        "lead_time": 6.486,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "XtaLFYa_zV",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/4b1e8d-4.png"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931654,
+        "id": 154001,
+        "lead_time": 10.238,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "eifykgvgHx",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/38a492-40.png"
+    },
+    "id": 154
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928833,
+        "id": 2001,
+        "lead_time": 10.152,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ofv8w0V7yL",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/1b5183-5.png"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935307,
+        "id": 279001,
+        "lead_time": 9.781,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "SMyGQRtUib",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/509fd0-58.png"
+    },
+    "id": 279
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935257,
+        "id": 275001,
+        "lead_time": 3.877,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "797cezqJNk",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/03b03d-54.png"
+    },
+    "id": 275
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932238,
+        "id": 181001,
+        "lead_time": 5.884,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "rRY2xGAFxf",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/cbe981-12.png"
+    },
+    "id": 181
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933898,
+        "id": 198001,
+        "lead_time": 9.993,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "UJbUrmI3zo",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/230aa8-29.png"
+    },
+    "id": 198
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930792,
+        "id": 119001,
+        "lead_time": 4.905,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "v1GIeaCCoo",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6ddfa4-5.png"
+    },
+    "id": 119
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928957,
+        "id": 13001,
+        "lead_time": 3.703,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "WfSDgN6wJp",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hewan",
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c3506b-16.png"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931786,
+        "id": 162001,
+        "lead_time": 9.042,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "bONzxaEWDw",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/863e7a-48.png"
+    },
+    "id": 162
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933880,
+        "id": 197001,
+        "lead_time": 9.782,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Gk_wo0nZmt",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/2411ac-28.png"
+    },
+    "id": 197
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933651,
+        "id": 191001,
+        "lead_time": 361.178,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "yCTZlXezHX",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/bc4a77-22.png"
+    },
+    "id": 191
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930712,
+        "id": 114001,
+        "lead_time": 11.099,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "wOA8FZfiLN",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Sungai",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c36720-58.png"
+    },
+    "id": 114
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930899,
+        "id": 126001,
+        "lead_time": 4.947,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "4QWGFIvzJ7",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ea366a-12.png"
+    },
+    "id": 126
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930678,
+        "id": 112001,
+        "lead_time": 9.264,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "p92wAdMabn",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/e78450-56.png"
+    },
+    "id": 112
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933851,
+        "id": 195001,
+        "lead_time": 10.878,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "bMbQ-Oxk7U",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/7484b0-26.png"
+    },
+    "id": 195
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930073,
+        "id": 74001,
+        "lead_time": 98.233,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "t9ggmQelG8",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b7a412-18.png"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935588,
+        "id": 296001,
+        "lead_time": 4.739,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "jWfH_mhpNU",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f40f3b-19.png"
+    },
+    "id": 296
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930968,
+        "id": 131001,
+        "lead_time": 8.383,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "76Ughedhu6",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/776a08-17.png"
+    },
+    "id": 131
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931123,
+        "id": 140001,
+        "lead_time": 230.607,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "37hxDOvFnM",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Laut",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/5554e0-26.png"
+    },
+    "id": 140
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624928871,
+        "id": 5001,
+        "lead_time": 4.754,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "4WjUiTZrrC",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/8dd6f8-8.png"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931799,
+        "id": 163001,
+        "lead_time": 5.499,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "HZJB2kL5uz",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/36a2f0-49.png"
+    },
+    "id": 163
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931877,
+        "id": 169001,
+        "lead_time": 6.578,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "BYLnuh0AHg",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6a2fc4-55.png"
+    },
+    "id": 169
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931255,
+        "id": 147001,
+        "lead_time": 32.178,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "xs3MHuGlgV",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/49d94d-33.png"
+    },
+    "id": 147
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934936,
+        "id": 247001,
+        "lead_time": 5.495,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "52Bk5TylGk",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b7cba2-26.png"
+    },
+    "id": 247
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932199,
+        "id": 180001,
+        "lead_time": 7.366,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "6z2qFU-zXi",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6285e8-11.png"
+    },
+    "id": 180
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935168,
+        "id": 267001,
+        "lead_time": 3.624,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "U_mVxFC95V",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/fcb8e5-46.png"
+    },
+    "id": 267
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931319,
+        "id": 151001,
+        "lead_time": 8.151,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "1Y80CmTdTH",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b183d6-37.png"
+    },
+    "id": 151
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624931077,
+        "id": 138001,
+        "lead_time": 5.807,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "ayXBlsja03",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/b3211f-24.png"
+    },
+    "id": 138
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933544,
+        "id": 186001,
+        "lead_time": 5.488,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "dY6B1Nm3Kk",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/2c1295-17.png"
+    },
+    "id": 186
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624932166,
+        "id": 179001,
+        "lead_time": 5.461,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "YTRg7nE_wL",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/de54c4-10.png"
+    },
+    "id": 179
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935921,
+        "id": 323001,
+        "lead_time": 4.61,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "nqpaEl4dO0",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/02643b-53.png"
+    },
+    "id": 323
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935638,
+        "id": 300001,
+        "lead_time": 5.142,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "xvoP6KPfza",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/aa87f6-23.png"
+    },
+    "id": 300
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624933865,
+        "id": 196001,
+        "lead_time": 6.212,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "4jZhTxNtO9",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/21cada-27.png"
+    },
+    "id": 196
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935653,
+        "id": 301001,
+        "lead_time": 8.377,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "1UDPLhwuZe",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Manusia",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/edf7ca-25.png"
+    },
+    "id": 301
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935834,
+        "id": 316001,
+        "lead_time": 4.603,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Fpyd_tCD_O",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9a4ce5-45.png"
+    },
+    "id": 316
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934891,
+        "id": 245001,
+        "lead_time": 5.52,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "I9fZGy0KPf",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Manusia",
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/5554e0-24.png"
+    },
+    "id": 245
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929619,
+        "id": 50001,
+        "lead_time": 8.293,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "GKaKX_JGk9",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Hewan",
+                "Manusia",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/c2b8ff-53.png"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930237,
+        "id": 87001,
+        "lead_time": 16.074,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "pNCTTbkew2",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/787de0-31.png"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930035,
+        "id": 70001,
+        "lead_time": 2.965,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "HcuPJEnnbl",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/5ffc94-14.png"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930356,
+        "id": 92001,
+        "lead_time": 30.854,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "Md4hRsqTu3",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Manusia",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/8b5695-36.png"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935493,
+        "id": 292001,
+        "lead_time": 6.448,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "7az35SdDPI",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f3f40c-14.png"
+    },
+    "id": 292
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935771,
+        "id": 311001,
+        "lead_time": 6.336,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "XOO3n5qAHX",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Manusia",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/a449ea-39.png"
+    },
+    "id": 311
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624936030,
+        "id": 329001,
+        "lead_time": 4.041,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "GiJL7mzAzU",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/31d7f3-60.png"
+    },
+    "id": 329
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930766,
+        "id": 117001,
+        "lead_time": 5.944,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "lLCgRjegCz",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/599579-2.png"
+    },
+    "id": 117
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935014,
+        "id": 255001,
+        "lead_time": 4.75,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "d0lysSXNgo",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Laut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/6bb355-34.png"
+    },
+    "id": 255
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934005,
+        "id": 205001,
+        "lead_time": 8.721,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "SX6qNmGukB",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/3ffce8-36.png"
+    },
+    "id": 205
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930888,
+        "id": 125001,
+        "lead_time": 11.27,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "gpBLoyWYRL",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/9db02c-11.png"
+    },
+    "id": 125
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930367,
+        "id": 93001,
+        "lead_time": 5.34,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "hVXjY9tDDU",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Bunga"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/ea5d65-37.png"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930472,
+        "id": 100001,
+        "lead_time": 13.238,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "2lGTXDI9X5",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Taman"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/905cae-44.png"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935576,
+        "id": 295001,
+        "lead_time": 9.279,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "NEWr6X-lB4",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/609f1e-18.png"
+    },
+    "id": 295
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935415,
+        "id": 287001,
+        "lead_time": 11.341,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "58aeTMg7DO",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Air terjun",
+                "Danau"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/3d78fd-7.png"
+    },
+    "id": 287
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624936058,
+        "id": 331001,
+        "lead_time": 2270.631,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "9ueW2dlhYB",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Sungai",
+                "Air terjun"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/eac714-2.png"
+    },
+    "id": 331
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624930851,
+        "id": 123001,
+        "lead_time": 200.083,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "nYXefWNqyz",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Langit"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/2411ac-9.png"
+    },
+    "id": 123
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935738,
+        "id": 308001,
+        "lead_time": 8.365,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "9ERdSWiIZL",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sungai",
+                "Air terjun",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/2ca306-35.png"
+    },
+    "id": 308
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624935796,
+        "id": 313001,
+        "lead_time": 6.889,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "QglmWQdryn",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Sungai",
+                "Air terjun",
+                "Batu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/a3eb1b-42.png"
+    },
+    "id": 313
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624934099,
+        "id": 211001,
+        "lead_time": 8.439,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "vz-JO_vvpq",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tanaman",
+                "Gunung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/028ce9-42.png"
+    },
+    "id": 211
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1624929191,
+        "id": 25001,
+        "lead_time": 7.693,
+        "result": [
+          {
+            "from_name": "class-left",
+            "id": "IKMuhCzPyT",
+            "to_name": "img-left",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Hutan",
+                "Tanaman",
+                "Hewan",
+                "Sungai"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/928d9c-28.png"
+    },
+    "id": 25
+  }
+]
