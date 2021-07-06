@@ -24,7 +24,7 @@ const ShowAnotasiData = anotasi =>{
     anotasi.forEach(panggil=>{
         ListAnotasi.innerHTML += `
         <nav class="col-4 s12 m6 l4">
-            <div class="card">
+            <div style="background : #ffffff;" class="card">
                 <div class="card-image">
                     <img src="${panggil.data.image}" style="width: 100%">
                 </div>
