@@ -949,3 +949,15 @@ footer.fh5co-footer .social-links li a {
   border-radius: 20px;
   
 }
+.card-body p{
+  color: #1e1f29;
+}
+
+.card-body h3{
+  color: #1e1f29;
+}
+
+.card{
+  background:#e2e2e4;
+}
+
